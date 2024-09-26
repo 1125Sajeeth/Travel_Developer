@@ -48,52 +48,8 @@
 
 
 <!------------------------------- section2 ---------------------------------------->
-<!-- <style>
-    .rounded-shape1 {
-           
-           border-radius: 0 25% 0 25%;
-       }
-       .rounded-shape2 {
-          
-          border-radius: 25% 0 25% 0;
-       }
-</style>
-<section>
-<div class="container py-5">
-        <div class="row justify-content-center ">
-            <div class="col-md-5 col-lg-4">
-                <div class="mb-3">Our Story</div>
-                <h1 class="mb-5 text-primary-emphasis">About Us</h1>
-                <p style="text-align: justify;">
-                    At Trezzert, we are dedicated to providing exceptional travel experiences across Sri Lanka. Specializing in customizable tour packages, we offer everything from cultural explorations to beach getaways, wildlife adventures, and more. Our mission is to make your journey seamless, offering accommodation, meals, and transportation tailored to your preferences.
-                    With a focus on safety and customer satisfaction, we travel with you throughout your trip, resolving any issues along the way. Whether you choose a pre-designed package or create your own, Trezzert is here to deliver a hassle-free, unforgettable Sri Lankan adventure.
-                </p>
-            </div>
-            <div class="col-md-6 col-lg-6 ">
-            <div class="row justify-content-center ">
-                <div class="col-md-7 col-lg-6 col-sm-6 d-flex align-items-center align-items-lg-start justify-content-center">
-                    <img class="rounded-shape1 img-fluid h-75" src="img/Jaffna.png" alt="">
-                </div>
-                <div class="col-md-7 col-lg-6 col-sm-6 d-flex align-items-center align-items-lg-end justify-content-center">
-                    <img class="rounded-shape2 img-fluid h-75" src="img/Jaffna.png" alt="">
-                </div>
-            </div>
-            </div>
-        </div>
-    </div>
-</section> -->
 
 
-    <style>
-        .rounded-shape1 {
-            border-radius: 0 25% 0 25%;
-            object-fit: cover;
-        }
-        .rounded-shape2 {
-            border-radius: 25% 0 25% 0;
-            object-fit: cover;
-        }
-    </style>
     <section class="bg-light">
         <div class="container py-5">
             <div class="row justify-content-center align-items-center">
@@ -107,10 +63,10 @@
                 <div class="col-md-5 col-lg-6">
                     <div class="row justify-content-center">
                         <div class="col-6 col-md-12 col-lg-6 d-flex align-items-center justify-content-center mb-4 mb-lg-0">
-                            <img class="rounded-shape1 img-fluid pb-lg-5 pb-md-0 pb-3 mb-lg-5 mb-md-0 mb-0 " src="img/Jaffna.png" alt="Sri Lanka Travel Image 1">
+                            <img class="rounded-shape1 object-fit-cover img-fluid pb-lg-5 pb-md-0 pb-3 mb-lg-5 mb-md-0 mb-0 " src="img/Jaffna.png" alt="Sri Lanka Travel Image 1" style=" border-radius: 0 25% 0 25%;">
                         </div>
                         <div class="col-6 col-md-12 col-lg-6 d-flex align-items-center justify-content-center">
-                            <img class="rounded-shape2 img-fluid pt-lg-5 pt-md-0 pt-3 mt-lg-5 mt-md-0 mt-0" src="img/Jaffna.png" alt="Sri Lanka Travel Image 2">
+                            <img class="rounded-shape2 object-fit-cover img-fluid pt-lg-5 pt-md-0 pt-3 mt-lg-5 mt-md-0 mt-0" src="img/Jaffna.png" alt="Sri Lanka Travel Image 2" style="border-radius: 25% 0 25% 0; ">
                         </div>
                     </div>
                 </div>
