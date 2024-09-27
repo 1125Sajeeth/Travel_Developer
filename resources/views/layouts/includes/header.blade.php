@@ -17,7 +17,7 @@
                     <a class="nav-link fs-4  text-dark" href="">Travel Package</a>
                 </li>
                 <li class="nav-item mx-2">
-                    <a class="nav-link fs-4  text-dark" href="">About Us</a>
+                    <a class="nav-link fs-4  text-dark" href="{{ route('about') }}">About Us</a>
                 </li>
                 <li class="nav-item mx-2">
                     <a class="nav-link fs-4  text-dark" href="">Booking Dashboard</a>

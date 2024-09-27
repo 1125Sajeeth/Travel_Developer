@@ -1,0 +1,30 @@
+#message {
+    resize: none;
+}
+
+.form-check-input:checked {
+    background-color: red !important;
+    border-color: red !important;
+}
+
+.no-arrow {
+    appearance: none;
+    background: none;
+}
+
+.form-control.is-invalid,
+.was-validated .form-control:invalid {
+    background-color: #F22E2E3D;
+    border-color: #8E0E0E !important;
+    background-image: none !important;
+}
+
+.invalid-feedback {
+    color: #8E0E0E;
+}
+.form-control:valid {
+    background-image: none !important;
+}
+#name.error::placeholder {
+color: #8E0E0E; 
+}

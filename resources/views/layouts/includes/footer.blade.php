@@ -33,11 +33,11 @@
 <footer class="footer-content shadow pt-3">
     <div class=" bg-white  mt-5">
         <div class="container text-center">
-            <a class="d-flex text-decoration-none" href="">
-                <img class=" mt-3" src="{{ asset('img/Logo.png') }}" alt="logo" style="width: 10%;">
-            </a>
-            <div class="row align-items-start mb-0 mb-md-2 mb-lg-2">
-                <div class=" col-md-5 col-lg-3 text-white">
+            <div class="row align-items-center  mb-0 mb-md-2 mb-lg-2">
+                <div class=" col-md-6 col-lg-4 text-white">
+                    <a class="d-flex text-decoration-none" href="">
+                        <img class=" mt-3 img-fluid" src="{{ asset('img/Logo.png') }}" alt="logo" >
+                    </a>
                     <div class="text-dark fs-6" style="text-align:justify">
                         At Trezzert, our mission is to empower our guests by providing uniquely personalized travel experiences throughout Sri Lanka.
                         We believe that travel should be about exploration and personal growth.
@@ -45,8 +45,9 @@
                         ensuring every adventure is as unique as our travelers.
                     </div>
                 </div>
-                <div class="col-md-7 col-lg-9 text-center">
-                    <div class="row mt-md-5 mt-lg-0">
+                <div class="col-md-6 col-lg-8 text-center">
+                    <div class=" align-items-center">
+                    <div class="row mt-md-0 mt-lg-5">
                         <div class="col-md-4 text-white text-center ms-sm-3 ms-lg-0 justify-content-center align-items-center d-flex d-md-none d-lg-none">
                             <div class=" mt-3 mt-md-0 mt-lg-0">
                                 <h5 class="text-uppercase fs-6 text-danger fw-bold">Follow Us</h5>
@@ -64,7 +65,7 @@
                                 </span>
                             </div>
                         </div>
-                        <div class=" col-md-5 col-lg-4 mb-4 p-1 mt-3 mt-md-0 mt-lg-0">
+                        <div class=" col-md-6 col-lg-4 mb-4 mt-3 mt-md-0 mt-lg-0">
                             <h5 class="text-uppercase text-danger fw-bold fs-6">Quick Link</h5>
 
                             <ul class="list-unstyled mb-0">
@@ -82,7 +83,7 @@
                                 </li>
                             </ul>
                         </div>
-                        <div class=" col-md-7 col-lg-4 mb-1 mb-md-0 mb-lg-0">
+                        <div class=" col-md-6 col-lg-4 mb-1 mb-md-0 mb-lg-0">
                             <h5 class="text-uppercase text-danger fw-bold fs-6">Contact</h5>
 
                             <ul class="list-unstyled mb-0">
@@ -97,7 +98,7 @@
                                 </li>
                             </ul>
                         </div>
-                        <div class="col-md-4 text-white text-center ms-sm-3 ms-lg-0 justify-content-center align-items-center d-none d-md-flex d-lg-flex">
+                        <div class="col-lg-4 col-md-12 col-12 text-white text-center justify-content-center align-items-center d-none d-md-flex d-lg-flex mt-md-3 mt-lg-0 ">
                             <div>
                                 <h5 class="text-uppercase fs-6 text-danger fw-bold">Follow Us</h5>
                                 <span class="me-3 text-dark fs-2">
@@ -114,6 +115,7 @@
                                 </span>
                             </div>
                         </div>
+                    </div>
                     </div>
                 </div>
             </div>
