@@ -6,9 +6,9 @@
 <section>
     <div id="carouselExampleSlidesOnly" class="carousel slide carousel-fade" data-bs-ride="carousel">
         <div class="carousel-indicators mb-2 mb-lg-4 mb-md-4">
-            <button type="button" data-bs-target="#carouselExampleSlidesOnly" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-            <button type="button" data-bs-target="#carouselExampleSlidesOnly" data-bs-slide-to="1" aria-label="Slide 2"></button>
-            <button type="button" data-bs-target="#carouselExampleSlidesOnly" data-bs-slide-to="2" aria-label="Slide 3"></button>
+            <button type="button" data-bs-target="#carouselExampleSlidesOnly" data-bs-slide-to="0" class="active bg-light" aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#carouselExampleSlidesOnly" data-bs-slide-to="1" aria-label="Slide 2" class="bg-light"></button>
+            <button type="button" data-bs-target="#carouselExampleSlidesOnly" data-bs-slide-to="2" aria-label="Slide 3" class="bg-light"></button>
         </div>
         <div class="carousel-inner">
             <div class="carousel-item active position-relative">
@@ -167,12 +167,12 @@
                 <p class="text-white fs-5 mt-3">Our services have been trusted by world travelers.</p>
             </div>
             <div class=" row justify-content-center z-1 ">
-                <div class="col-md-5 mt-3 mb-4">
-                    <div class="bg-white rounded-2 px-5 py-2 mb-3 text-center">
+                <div class="col-6 mt-3 mb-4">
+                    <div class="bg-white rounded-2 px-5 py-2 mb-4 text-center">
                         <h4 class=" fw-bold">Customizable Packages</h4>
                         <p class=" fs-5">Tailor your travel experience with flexible itineraries, accommodations, and activities that suit your preferences.</p>
                     </div>
-                    <div class="bg-white rounded-2 px-5 py-2 mb-3 text-center">
+                    <div class="bg-white rounded-2 px-5 py-2 mb-4 text-center">
                         <h4 class=" fw-bold">Safe & Reliable Travel</h4>
                         <p class=" fs-5">Enjoy secure transportation, handpicked accommodations, and expert guidance throughout your journey.</p>
                     </div>
@@ -189,8 +189,8 @@
 
 <div class="container mt-5">
     <h5 class="text-center mb-2">Gallery</h5>
-    <h2 class="text-center mb-4 fw-bold text-primary">Unforgettable moment</h2>
-    <div class="row g-3">
+    <h2 class="text-center fw-bold text-primary mb-5">Unforgettable moment</h2>
+    <div class="row g-3 ">
         <div class="col-md-6 d-flex">
             <div class="position-relative w-100 h-100">
                 <img src="{{ asset('img/Jaffna.png') }}" alt="Jaffna" class="img-fluid rounded w-100 h-100 object-fit-cover">
@@ -210,7 +210,7 @@
                     </div>
                 </div>
             </div>
-            <div class="row h-50 pt-0 mt-3 mt-md-4 mt-lg-4 gx-3">
+            <div class="row h-50 pt-0 mt-2 mt-md-4 mt-lg-4 gx-3">
                 <div class="col-6">
                     <div class="position-relative h-100">
                         <img src="{{ asset('img/batti.jpg') }}" alt="batti" class="img-fluid rounded w-100 h-100 object-fit-cover">

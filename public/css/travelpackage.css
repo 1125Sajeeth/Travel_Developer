@@ -1,11 +1,15 @@
-.accontbtn:hover {
-    background-color: blue;
-    border-color: blue;
-    
+#message {
+    resize: none;
 }
 
-.accontbtn{
-    transition: all 0.5s ease;
+.form-check-input:checked {
+    background-color: red !important;
+    border-color: red !important;
+}
+
+.no-arrow {
+    appearance: none;
+    background: none;
 }
 
 .form-control.is-invalid,
@@ -18,17 +22,9 @@
 .invalid-feedback {
     color: #8E0E0E;
 }
-
 .form-control:valid {
     background-image: none !important;
 }
-
 .plcname.error::placeholder {
-    color: #8E0E0E;
-}
-
-
-.form-check-input:checked {
-    background-color: red !important;
-    border-color: red !important;
+color: #8E0E0E; 
 }

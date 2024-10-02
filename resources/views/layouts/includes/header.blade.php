@@ -14,7 +14,7 @@
                     <a class="nav-link fs-4  text-dark" href="{{ route('home') }} ">Home</a>
                 </li>
                 <li class="nav-item mx-2">
-                    <a class="nav-link fs-4  text-dark" href="">Travel Package</a>
+                    <a class="nav-link fs-4  text-dark" href="{{ route('travelpackage') }}">Travel Package</a>
                 </li>
                 <li class="nav-item mx-2">
                     <a class="nav-link fs-4  text-dark" href="{{ route('about') }}">About Us</a>
@@ -23,7 +23,7 @@
                     <a class="nav-link fs-4  text-dark" href="">Booking Dashboard</a>
                 </li>
                 <li class="nav-item mx-2">
-                    <a class="nav-link fs-4  text-dark" href="">Contact Us</a>
+                    <a class="nav-link fs-4  text-dark" href="{{ route('contact') }}">Contact Us</a>
                 </li>
                 <li class="nav-item d-lg-none mx-2">
                     <a class="nav-link fs-4" href="#">

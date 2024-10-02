@@ -10,7 +10,8 @@
                         </div>
                         <div class="col-lg-8 col-md-8">
                             <div class="px-5">
-                                <h6 class="text-primary mb-2 fs-5 text-decoration-underline text-center text-md-start text-lg-start">Newsletters</h6>
+                                <!-- <h6 class="text-primary mb-2 fs-5 text-decoration-underline text-center text-md-start text-lg-start">Newsletters</h6> -->
+                                <h6 class="text-primary mb-2 fs-5 text-center text-md-start text-lg-start d-inline-block border-bottom border-1 border-primary">Newsletters</h6>
                                 <h2 class="newsletter-title text-danger fw-bold mb-3">Get Our Every Single Notification</h2>
                                 <form class="align-items-center d-flex">
                                     <div class="col-md-7">

@@ -1,9 +1,7 @@
 .carousel-indicators .active {
     background-color: red !important; 
 }
-.carousel-indicators{
-    color: white !important;
-}
+
 
 .hoverbtn:hover {
     background-color: blue; 

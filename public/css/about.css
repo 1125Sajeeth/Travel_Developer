@@ -1,15 +1,27 @@
-#message {
-    resize: none;
+.login-button:hover {
+    background-color: blue;
+    border-color: blue;
+}
+.login-button{
+    transition: all 0.5s ease;
+}
+.loading-spinner {
+    border: 2px solid #333;
+    border-top: 2px solid transparent;
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    animation: spin 1s linear infinite;
 }
 
-.form-check-input:checked {
-    background-color: red !important;
-    border-color: red !important;
-}
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
 
-.no-arrow {
-    appearance: none;
-    background: none;
+    100% {
+        transform: rotate(360deg);
+    }
 }
 
 .form-control.is-invalid,
@@ -22,9 +34,17 @@
 .invalid-feedback {
     color: #8E0E0E;
 }
+
 .form-control:valid {
     background-image: none !important;
 }
-#name.error::placeholder {
-color: #8E0E0E; 
+
+.plcname.error::placeholder {
+    color: #8E0E0E;
+}
+
+
+.form-check-input:checked {
+    background-color: red !important;
+    border-color: red !important;
 }
