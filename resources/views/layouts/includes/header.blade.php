@@ -20,7 +20,7 @@
                     <a class="nav-link fs-4  text-dark" href="{{ route('about') }}">About Us</a>
                 </li>
                 <li class="nav-item mx-2">
-                    <a class="nav-link fs-4  text-dark" href="">Booking Dashboard</a>
+                    <a class="nav-link fs-4  text-dark" href="{{ route('admin') }}">Admin</a>
                 </li>
                 <li class="nav-item mx-2">
                     <a class="nav-link fs-4  text-dark" href="{{ route('contact') }}">Contact Us</a>

@@ -16,8 +16,8 @@
                 <div class="carousel-caption position-absolute d-flex flex-column justify-content-center h-100 align-items-start custom-caption-alignment start-0 top-0" style="padding-left: 5%;">
                     <p class="mb-3 text-white fw-bold display-2">Make in your journey...</p>
                     <div class=" d-flex">
-                        <a href="#" class="btn btn-danger py-1 px-3 me-2 hoverbtn fw-medium mt-2 text-nowrap justify-content-center align-items-center d-flex fs-5">View Package</a>
-                        <a href="#" class="btn btn-outline-danger mx-3 mx-md-4 mx-lg-4 text-white fs-5 py-1 px-3 fw-medium mt-2 text-nowrap">Custom Package</a>
+                        <a href="#" class="btn btn-danger py-1 px-3 me-2 hoverbtn hoverbtnt fw-medium mt-2 text-nowrap justify-content-center align-items-center d-flex fs-5">View Package</a>
+                        <a href="#" class="btn btn-outline-danger hoverbtnt mx-3 mx-md-4 mx-lg-4 text-white fs-5 py-1 px-3 fw-medium mt-2 text-nowrap">Custom Package</a>
                     </div>
                 </div>
             </div>
@@ -26,8 +26,8 @@
                 <div class="carousel-caption position-absolute d-flex flex-column justify-content-center h-100 align-items-start custom-caption-alignment start-0 top-0" style="padding-left: 5%;">
                     <p class="mb-3 text-white fw-bold display-2">Make in your journey...</p>
                     <div class=" d-flex">
-                        <a href="#" class="btn btn-danger py-1 px-3 me-2 hoverbtn fw-medium mt-2 text-nowrap justify-content-center align-items-center d-flex fs-5">View Package</a>
-                        <a href="#" class="btn btn-outline-danger mx-3 mx-md-4 mx-lg-4 text-white fs-5 py-1 px-3 fw-medium mt-2 text-nowrap">Custom Package</a>
+                        <a href="#" class="btn btn-danger py-1 px-3 me-2 hoverbtn hoverbtnt fw-medium mt-2 text-nowrap justify-content-center align-items-center d-flex fs-5">View Package</a>
+                        <a href="#" class="btn btn-outline-danger mx-3 mx-md-4 mx-lg-4 text-white fs-5 py-1 px-3 fw-medium mt-2 text-nowrap hoverbtnt">Custom Package</a>
                     </div>
                 </div>
             </div>
@@ -37,8 +37,8 @@
                 <div class="carousel-caption position-absolute d-flex flex-column justify-content-center h-100 align-items-start custom-caption-alignment start-0 top-0" style="padding-left: 5%;">
                     <p class="mb-3 text-white fw-bold display-2">Make in your journey...</p>
                     <div class=" d-flex">
-                        <a href="#" class="btn btn-danger py-1 px-3 me-2 hoverbtn fw-medium mt-2 text-nowrap justify-content-center align-items-center d-flex fs-5">View Package</a>
-                        <a href="#" class="btn btn-outline-danger mx-3 mx-md-4 mx-lg-4 text-white fs-5 py-1 px-3 fw-medium mt-2 text-nowrap">Custom Package</a>
+                        <a href="#" class="btn btn-danger py-1 px-3 me-2 hoverbtn hoverbtnt fw-medium mt-2 text-nowrap justify-content-center align-items-center d-flex fs-5">View Package</a>
+                        <a href="#" class="btn btn-outline-danger mx-3 mx-md-4 hoverbtnt mx-lg-4 text-white fs-5 py-1 px-3 fw-medium mt-2 text-nowrap">Custom Package</a>
                     </div>
                 </div>
             </div>
@@ -81,7 +81,7 @@
             <h5 class="text-center mb-2">Our Packages</h5>
             <h1 class="text-center fw-bold mb-2">Fall into travel</h1>
             <div class="text-end mb-4">
-                <a href="#" class=" btn btn-outline-danger fs-5 fw-bold hoverbtn2 text-danger">See All</a>
+                <a href="#" class=" btn btn-outline-danger fs-5 fw-bold hoverbtn2 text-danger hoverbtnt">See All</a>
             </div>
             <p class="mb-2 fs-5 text-secondary">Discover customized travel packages designed for your dream journey, combining adventure, comfort, and the best prices for a hassle-free experience.</p>
         </div>
@@ -98,7 +98,7 @@
                         <p class="card-text fw-bold text-primary mb-1 fs-5">Jaffna | Trinco | Batti</p>
                         <p class="card-text text-secondary">Qui Tempore Voluptate Qui Quia Commodi Commodi Rem Praesentium Alias Et.</p>
                         <div class=" text-center">
-                            <a href="#" class="btn btn-danger hoverbtn fs-5">View More</a>
+                            <a href="#" class="btn btn-danger hoverbtn hoverbtnt fs-5">View More</a>
                         </div>
                     </div>
                 </div>
@@ -115,7 +115,7 @@
                         <p class="card-text fw-bold text-primary mb-1 fs-5">Jaffna | Trinco | Batti</p>
                         <p class="card-text text-secondary">Qui Tempore Voluptate Qui Quia Commodi Commodi Rem Praesentium Alias Et.</p>
                         <div class=" text-center">
-                            <a href="#" class="btn btn-danger hoverbtn fs-5">View More</a>
+                            <a href="#" class="btn btn-danger hoverbtn hoverbtnt fs-5">View More</a>
                         </div>
                     </div>
                 </div>
@@ -132,7 +132,7 @@
                         <p class="card-text fw-bold text-primary mb-1 fs-5">Jaffna | Trinco | Batti</p>
                         <p class="card-text text-secondary">Qui Tempore Voluptate Qui Quia Commodi Commodi Rem Praesentium Alias Et.</p>
                         <div class=" text-center">
-                            <a href="#" class="btn btn-danger hoverbtn fs-5">View More</a>
+                            <a href="#" class="btn btn-danger hoverbtn hoverbtnt fs-5">View More</a>
                         </div>
                     </div>
                 </div>
@@ -149,7 +149,7 @@
                         <p class="card-text fw-bold text-primary mb-1 fs-5">Jaffna | Trinco | Batti</p>
                         <p class="card-text text-secondary">Qui Tempore Voluptate Qui Quia Commodi Commodi Rem Praesentium Alias Et.</p>
                         <div class=" text-center">
-                            <a href="#" class="btn hoverbtn btn-danger fs-5">View More</a>
+                            <a href="#" class="btn hoverbtn hoverbtnt btn-danger fs-5">View More</a>
                         </div>
                     </div>
                 </div>
@@ -167,18 +167,18 @@
                 <p class="text-white fs-5 mt-3">Our services have been trusted by world travelers.</p>
             </div>
             <div class=" row justify-content-center z-1 ">
-                <div class="col-6 mt-3 mb-4">
+                <div class="col-lg-6 col-md-10 col-12 mt-3 mb-4">
                     <div class="bg-white rounded-2 px-5 py-2 mb-4 text-center">
                         <h4 class=" fw-bold">Customizable Packages</h4>
-                        <p class=" fs-5">Tailor your travel experience with flexible itineraries, accommodations, and activities that suit your preferences.</p>
+                        <p class=" fs-5 px-lg-4 px-md-0 px-0">Tailor your travel experience with flexible itineraries, accommodations, and activities that suit your preferences.</p>
                     </div>
                     <div class="bg-white rounded-2 px-5 py-2 mb-4 text-center">
                         <h4 class=" fw-bold">Safe & Reliable Travel</h4>
-                        <p class=" fs-5">Enjoy secure transportation, handpicked accommodations, and expert guidance throughout your journey.</p>
+                        <p class=" fs-5 px-lg-4 px-md-0 px-0">Enjoy secure transportation, handpicked accommodations, and expert guidance throughout your journey.</p>
                     </div>
                     <div class="bg-white rounded-2 px-5 py-2 mb-4 text-center">
                         <h4 class=" fw-bold">Comprehensive Support</h4>
-                        <p class=" fs-5">We offer 24/7 assistance, ensuring a seamless, worry-free trip from start to finish.</p>
+                        <p class=" fs-5 px-lg-4 px-md-0 px-0">We offer 24/7 assistance, ensuring a seamless, worry-free trip from start to finish.</p>
                     </div>
                 </div>
             </div>

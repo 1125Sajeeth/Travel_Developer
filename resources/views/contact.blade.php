@@ -320,6 +320,20 @@
 </div>
 
 
+<!------------------------------ section 4 ------------------------------------->
+
+
+    <div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-lg-6 text-center">
+                <img src="{{ asset('img/404.png') }}" alt="404" class="img-fluid mb-5">
+                <h1 class="mt-5 mb-3">OOOPS ! PAGE NOT FOUND</h1>
+                <p class="mb-4">Sorry the page you are looking for does not exist, if you think something is broken, report a problem</p>
+                <a href="{{ route('home') }}" class="btn btn-danger px-4">Home</a>
+            </div>
+        </div>
+    </div>
+
 @endsection
 @section('styles')
 <link rel="stylesheet" href="{{ asset('css/contact.css') }}">

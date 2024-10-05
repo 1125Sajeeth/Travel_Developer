@@ -83,25 +83,25 @@
                                     </div>
                                 </div>
                                 <div>
-                                    <label class="form-label">Place</label>
-                                    <div class="d-flex flex-wrap gap-5 ms-2">
-                                        <div class="form-check">
+                                    <label class="form-label mb-1 mt-2">Place</label>
+                                    <div class="d-flex flex-wrap gap-4 gap-lg-5 gap-md-5">
+                                        <div class="form-check ms-2 me-2">
                                             <input class="form-check-input fs-5 border-secondary" type="checkbox" id="place1" value="Nallur" >
                                             <label class="form-check-label fs-5 text-black" for="place1">Nallur</label>
                                         </div>
-                                        <div class="form-check">
+                                        <div class="form-check ms-2 me-2">
                                             <input class="form-check-input fs-5 border-secondary" type="checkbox" id="place2" value="Jaffna">
                                             <label class="form-check-label fs-5 text-black" for="place2">Jaffna</label>
                                         </div>
-                                        <div class="form-check">
+                                        <div class="form-check ms-2 me-2">
                                             <input class="form-check-input fs-5 border-secondary" type="checkbox" id="place3" value="Nallur">
                                             <label class="form-check-label fs-5 text-black" for="place3">Nallur</label>
                                         </div>
-                                        <div class="form-check">
+                                        <div class="form-check ms-2 me-2">
                                             <input class="form-check-input fs-5 border-secondary" type="checkbox" id="place4" value="Nallur">
                                             <label class="form-check-label fs-5 text-black" for="place4">Nallur</label>
                                         </div>
-                                        <div class="form-check">
+                                        <div class="form-check ms-2 me-2">
                                         <input class="form-check-input fs-5 border-secondary" type="checkbox" id="place5" value="Nallur">
                                             <label class="form-check-label fs-5 text-black" for="place5">Jaffna</label>
                                         </div>
@@ -114,11 +114,11 @@
                         </div>
                         <div class="mb-4">
                             <label for="message" class="form-label fs-5">Message</label>
-                            <textarea class="form-control border-secondary fs-5" id="message" rows="3" placeholder="Your message"></textarea>
+                            <textarea class="form-control border-secondary fs-5" id="message" rows="3" placeholder="Your message" style="resize: none;"></textarea>
                         </div>
                         <div class="d-flex justify-content-center mt-4 mb-2">
                             <div class="col-md-4 col-lg-3 col-6">
-                                <button type="submit" class="btn btn-danger fs-5 w-100">Build Package</button>
+                                <button type="submit" class="btn btn-danger fs-5 w-100 hoverbtn hoverbtnt">Build Package</button>
                             </div>
                         </div>
                     </form>
